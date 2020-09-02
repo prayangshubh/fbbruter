@@ -31,7 +31,7 @@ $ python2 cracky_beta.py
 
 Then Enter 
 
-"Victim's Username / Email : 
+Victim's Username / Email : 
 
 
 Wordlist Path / Name : 
