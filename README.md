@@ -18,11 +18,15 @@ Software Url : https://hritwickb.me/project/cracky
 Usage:
 
 $ pip2 install mechanize
+
 $ pip2 install random
+
 $ pip2 install cookielib
 
 $ git clone https://github.com/vilenofficial/Cracky_Beta
+
 $ cd Cracky_Beta
+
 $ python2 cracky_beta.py
 
 Then Enter 
