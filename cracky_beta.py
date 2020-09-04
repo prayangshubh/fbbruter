@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
+#vilennoob
+#cracky_beta
+#darkdevil 16
+
 
 import sys
 import mechanize
