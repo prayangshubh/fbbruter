@@ -1,4 +1,4 @@
-# Cracky_Beta
+# FBBRUTER
 Facebook Password Cracker Tool (Beta Version)
 
 Author : Prayangshu Biswas (x44uarbruter)
