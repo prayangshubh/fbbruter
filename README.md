@@ -1,7 +1,7 @@
 # Cracky_Beta
 Facebook Password Cracker Tool (Beta Version)
 
-Author : Prayangshu Biswas (darkdevil_16)
+Author : Prayangshu Biswas (x44uarbruter)
 
 Author Website: https://hritwickb.me
 
@@ -11,9 +11,8 @@ FB- https://facebook.com/hritwickbvilen
 Instagram- https://instagram.com/hritwickbvilen
 Twitter:- https://twitter.com/hritwickvilen
 
-Tool Version : 1.0
+Tool Version : 1.2
 
-Software Url : https://hritwickb.me/project/cracky
 
 Usage:
 
@@ -23,11 +22,11 @@ $ pip2 install random
 
 $ pip2 install cookielib
 
-$ git clone https://github.com/vilenofficial/Cracky_Beta
+$ git clone https://github.com/vilenofficial/fbbruter
 
-$ cd Cracky_Beta
+$ cd fbbruter
 
-$ python2 cracky_beta.py
+$ python2 main.py
 
 Then Enter 
 
